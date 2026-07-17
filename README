@@ -1,9 +1,29 @@
-					Adelaide
+                    Adelaide
 
-		A Code Editor, but for Android.
+          A Code Editor, but for Android.
 
+Adelaide is a lightweight code editor designed for Android devices.
 
-This isn't going to receive any work for a while since this
-project is only for Android, it will either be a port for AsterIDE
-or a standalone project, will probably try to port asteride
-but depending on how that goes, we may make it a standalone project.
+The goal is to provide a fast, clean editing experience without unnecessary
+features or complexity. Adelaide focuses on the essentials needed for viewing
+and editing source code on mobile devices.
+
+Planned Features
+
+- Open and edit local files.
+- Syntax highlighting for supported languages.
+- Simple search and replace within the current file and whole codebase
+
+Goals
+
+- Fast startup and smooth performance.
+- Simple, touch-friendly interface.
+- Minimal resource usage.
+- Reliable editing experience.
+- Clean and fit Mobile UI/UX
+
+Status
+
+Adelaide is currently just a concept idea, and will not be worked on at all
+until AsterIDE v2.0.0 is stable, after this, we will work on making an
+Android code editor, for those who don't like Ads.
